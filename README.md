@@ -1,2 +1,2 @@
 # CPP-Questions
-This repo contains C++ Questions which I solved.
+This Repository contains C++ Questions which I solved.
